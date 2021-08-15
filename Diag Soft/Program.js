@@ -42,7 +42,7 @@ for (let i=0; i<arrcheck.length; i++)
 	{
 		for (arrcheck[i].ID=i; i>0; i--)
 		{
-			let ValSum=arrcheck[i].Val=
+			let ValSum=arrcheck[i].Val=10
 		}
 		
 		let branchcost=arrcheck[i].prob*ValSum;
